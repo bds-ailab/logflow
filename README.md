@@ -194,5 +194,6 @@ marc.platini@gmail.com
 benoit.pelletier@atos.net
 
 ## Sponsor 
-This project was partially funded by ![Feder](/logos/feder.jpg) ![Région Auvergne Rhône-Alpes](/logos/ara-region.jpg) ![European Union](/logos/UE.png)
+
+This project was partially funded by <img src="/logos/feder.jpg" height="60" alt="Feder"> <img alt="Région Auvergne Rhône-Alpes" src="/logos/ara-region.jpg" height="60"> <img alt="European Union" src="/logos/UE.png" height="60">
 
