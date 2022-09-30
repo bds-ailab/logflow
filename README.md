@@ -191,5 +191,12 @@ https://logflow.readthedocs.io/en/latest/
 
 ## Contact
 marc.platini@gmail.com
-marc.platini@atos.net
+benoit.pelletier@atos.net
+
+## Contact
+marc.platini@gmail.com
+benoit.pelletier@atos.net
+
+## Sponsor 
+This project was partially funded by ![Feder](https://www.europe-en-auvergnerhonealpes.eu/sites/default/themes/europeenauv/proto/app/assets/media/images/c-logo__europeauvergne.png)
 
